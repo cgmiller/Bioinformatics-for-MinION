@@ -1,2 +1,2 @@
 sample,fastq,barcode,genome,transcriptome
-FishSample,data/toy.fastq.gz,,GCA_904066995.2,
+FishSample,data/guppy.fastq,,GCA_904066995.2,
