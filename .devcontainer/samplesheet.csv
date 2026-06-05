@@ -1,0 +1,2 @@
+sample,fastq,barcode,genome,transcriptome
+FishSample,data/toy.fastq.gz,,GCA_904066995.2,
